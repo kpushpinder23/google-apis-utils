@@ -1,7 +1,5 @@
 #labels Googleclientlogin,java
 GoogleClientLogin wrapper Utility.<br>
-It wraps the ClientLogin class from [http://code.google.com/p/google-api-java-client/ Google APIs Client Library for Java] http://code.google.com/p/google-api-java-client/
-and provides extra utilities to Google ClientLogin method.<br>
+It wraps the ClientLogin class from [http://code.google.com/p/google-api-java-client/ Google APIs Client Library for Java] and provides extra utilities to Google ClientLogin method.<br>
 <br><br>
 Description of this Utility lib : [http://wp.me/p1lOfm-at Google ClientLogin Utility in Java]
-http://wp.me/p1lOfm-at
